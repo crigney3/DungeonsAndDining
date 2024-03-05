@@ -1,7 +1,7 @@
 {
     "Food": [
         {
-            "Name": "Hamburger",
+            "Name": "Fancy Hamburger",
             "Value": 20,
             "BaseQuality": 5
         },
@@ -11,14 +11,69 @@
             "BaseQuality": 7
         },
         {
-            "Name": "Beef stew",
+            "Name": "Beef Stew",
             "Value": 10,
+            "BaseQuality": 3
+        },
+        {
+            "Name": "Steak",
+            "Value": 40,
+            "BaseQuality": 10
+        },
+        {
+            "Name": "Veggie Stew",
+            "Value": 8,
             "BaseQuality": 2
         },
         {
-            "Name": "Gold-Plated Steak",
+            "Name": "Basic Burger",
+            "Value": 15,
+            "BaseQuality": 4
+        },
+        {
+            "Name": "Leg of Exotic Meat",
+            "Value": 80,
+            "BaseQuality": 16
+        },
+        {
+            "Name": "Exotic Meat and Veggies",
             "Value": 100,
             "BaseQuality": 20
+        },
+        {
+            "Name": "Tomato",
+            "Value": 3,
+            "BaseQuality": 0
+        },
+        {
+            "Name": "Carrot",
+            "Value": 2,
+            "BaseQuality": 0
+        },
+        {
+            "Name": "Onion",
+            "Value": 1,
+            "BaseQuality": -1
+        },
+        {
+            "Name": "Lettuce",
+            "Value": 2,
+            "BaseQuality": 0
+        },
+        {
+            "Name": "Cheese",
+            "Value": 3,
+            "BaseQuality": 0
+        },
+        {
+            "Name": "Baked Potato",
+            "Value": 5,
+            "BaseQuality": 1
+        },
+        {
+            "Name": "Cheesy Baked Potato",
+            "Value": 7,
+            "BaseQuality": 2
         }
     ]
 }
