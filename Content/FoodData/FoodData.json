@@ -1,0 +1,24 @@
+{
+    "Food": [
+        {
+            "Name": "Hamburger",
+            "Value": 20,
+            "BaseQuality": 5
+        },
+        {
+            "Name": "Cheeseburger",
+            "Value": 25,
+            "BaseQuality": 7
+        },
+        {
+            "Name": "Beef stew",
+            "Value": 10,
+            "BaseQuality": 2
+        },
+        {
+            "Name": "Gold-Plated Steak",
+            "Value": 100,
+            "BaseQuality": 20
+        }
+    ]
+}
