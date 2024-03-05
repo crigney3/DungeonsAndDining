@@ -1,5 +1,5 @@
 {
-    "Food": [
+    "Meals": [
         {
             "Name": "Fancy Hamburger",
             "Value": 20,
@@ -74,6 +74,48 @@
             "Name": "Cheesy Baked Potato",
             "Value": 7,
             "BaseQuality": 2
+        }
+    ],
+    "Ingredients": [
+        {
+            "Name": "Lettuce",
+            "Cost": 3
+        },
+        {
+            "Name": "Carrots",
+            "Cost": 3
+        },
+        {
+            "Name": "Onions",
+            "Cost": 2
+        },
+        {
+            "Name": "Tomatoes",
+            "Cost": 4
+        },
+        {
+            "Name": "Cheese",
+            "Cost": 4
+        },
+        {
+            "Name": "Potatoes",
+            "Cost": 3
+        },
+        {
+            "Name": "Beef Cubes",
+            "Cost": 10
+        },
+        {
+            "Name": "Steaks",
+            "Cost": 20
+        },
+        {
+            "Name": "Burger Buns",
+            "Cost": 5
+        },
+        {
+            "Name": "Exotic Meat",
+            "Cost": 80
         }
     ]
 }
