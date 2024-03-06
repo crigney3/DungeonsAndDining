@@ -3,77 +3,151 @@
         {
             "Name": "Fancy Hamburger",
             "Value": 20,
-            "BaseQuality": 5
+            "BaseQuality": 5,
+            "RequiredIngredients": [
+                "Burger Buns",
+                "Tomatoes",
+                "Lettuce",
+                "Onions",
+                "Beef"
+            ]
         },
         {
-            "Name": "Cheeseburger",
+            "Name": "Fancy Cheeseburger",
             "Value": 25,
-            "BaseQuality": 7
+            "BaseQuality": 7,
+            "RequiredIngredients": [
+                "Burger Buns",
+                "Tomatoes",
+                "Lettuce",
+                "Onions",
+                "Beef",
+                "Cheese"
+            ]
         },
         {
             "Name": "Beef Stew",
             "Value": 10,
-            "BaseQuality": 3
+            "BaseQuality": 3,
+            "RequiredIngredients": [
+                "Potatoes",
+                "Onions",
+                "Carrots",
+                "Beef"
+            ]
         },
         {
             "Name": "Steak",
             "Value": 40,
-            "BaseQuality": 10
+            "BaseQuality": 10,
+            "RequiredIngredients": [
+                "Steak"
+            ]
         },
         {
             "Name": "Veggie Stew",
             "Value": 8,
-            "BaseQuality": 2
+            "BaseQuality": 2,
+            "RequiredIngredients": [
+                "Carrots",
+                "Lettuce",
+                "Onions",
+                "Potatoes"
+            ]
         },
         {
             "Name": "Basic Burger",
             "Value": 15,
-            "BaseQuality": 4
+            "BaseQuality": 4,
+            "RequiredIngredients": [
+                "Burger Buns",
+                "Beef"
+            ]
+        },
+        {
+            "Name": "Basic Cheeseburger",
+            "Value": 15,
+            "BaseQuality": 4,
+            "RequiredIngredients": [
+                "Burger Buns",
+                "Beef",
+                "Cheese"
+            ]
         },
         {
             "Name": "Leg of Exotic Meat",
             "Value": 80,
-            "BaseQuality": 16
+            "BaseQuality": 16,
+            "RequiredIngredients": [
+                "Exotic Meat"
+            ]
         },
         {
             "Name": "Exotic Meat and Veggies",
             "Value": 100,
-            "BaseQuality": 20
+            "BaseQuality": 20,
+            "RequiredIngredients": [
+                "Exotic Meat",
+                "Carrots",
+                "Tomatoes"
+            ]
         },
         {
             "Name": "Tomato",
             "Value": 3,
-            "BaseQuality": 0
+            "BaseQuality": 0,
+            "RequiredIngredients": [
+                "Tomatoes"
+            ]
         },
         {
             "Name": "Carrot",
             "Value": 2,
-            "BaseQuality": 0
+            "BaseQuality": 0,
+            "RequiredIngredients": [
+                "Carrots"
+            ]
         },
         {
             "Name": "Onion",
             "Value": 1,
-            "BaseQuality": -1
+            "BaseQuality": -1,
+            "RequiredIngredients": [
+                "Onions"
+            ]
         },
         {
             "Name": "Lettuce",
             "Value": 2,
-            "BaseQuality": 0
+            "BaseQuality": 0,
+            "RequiredIngredients": [
+                "Lettuce"
+            ]
         },
         {
             "Name": "Cheese",
             "Value": 3,
-            "BaseQuality": 0
+            "BaseQuality": 0,
+            "RequiredIngredients": [
+                "Cheese"
+            ]
         },
         {
             "Name": "Baked Potato",
             "Value": 5,
-            "BaseQuality": 1
+            "BaseQuality": 1,
+            "RequiredIngredients": [
+                "Potatoes"
+            ]
         },
         {
             "Name": "Cheesy Baked Potato",
             "Value": 7,
-            "BaseQuality": 2
+            "BaseQuality": 2,
+            "RequiredIngredients": [
+                "Potatoes",
+                "Cheese"
+            ]
         }
     ],
     "Ingredients": [
@@ -102,11 +176,11 @@
             "Cost": 3
         },
         {
-            "Name": "Beef Cubes",
+            "Name": "Beef",
             "Cost": 10
         },
         {
-            "Name": "Steaks",
+            "Name": "Steak",
             "Cost": 20
         },
         {
