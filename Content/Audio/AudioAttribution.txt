@@ -1,6 +1,0 @@
-temp_bg_loop: https://opengameart.org/content/loading-screen-loop
-fridge_open: https://download.audiohero.com/playlist/1673731
-StarlightSong: https://download.audiohero.com/playlist/1673791
-Discovery1, ShinyGet, SellOrBuy, Disappear, Burst: https://download.audiohero.com/playlist/1673750
-Slash: https://download.audiohero.com/playlist/1673750
-Melee1,2,3: https://opengameart.org/content/3-melee-sounds
