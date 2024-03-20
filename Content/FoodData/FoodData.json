@@ -10,6 +10,10 @@
                 "Lettuce",
                 "Onions",
                 "Beef"
+            ],
+            "Tasks": [
+                "Fry",
+                "Chop"
             ]
         },
         {
@@ -23,6 +27,10 @@
                 "Onions",
                 "Beef",
                 "Cheese"
+            ],
+            "Tasks": [
+                "Fry",
+                "Chop"
             ]
         },
         {
@@ -34,6 +42,10 @@
                 "Onions",
                 "Carrots",
                 "Beef"
+            ],
+            "Tasks": [
+                "Boil",
+                "Chop"
             ]
         },
         {
@@ -42,6 +54,9 @@
             "BaseQuality": 10,
             "RequiredIngredients": [
                 "Steak"
+            ],
+            "Tasks": [
+                "Fry"
             ]
         },
         {
@@ -53,6 +68,10 @@
                 "Lettuce",
                 "Onions",
                 "Potatoes"
+            ],
+            "Tasks": [
+                "Boil",
+                "Chop"
             ]
         },
         {
@@ -62,6 +81,9 @@
             "RequiredIngredients": [
                 "Burger Buns",
                 "Beef"
+            ],
+            "Tasks": [
+                "Fry"
             ]
         },
         {
@@ -72,6 +94,10 @@
                 "Burger Buns",
                 "Beef",
                 "Cheese"
+            ],
+            "Tasks": [
+                "Fry",
+                "Chop"
             ]
         },
         {
@@ -80,6 +106,9 @@
             "BaseQuality": 16,
             "RequiredIngredients": [
                 "Exotic Meat"
+            ],
+            "Tasks": [
+                "Oven"
             ]
         },
         {
@@ -90,6 +119,11 @@
                 "Exotic Meat",
                 "Carrots",
                 "Tomatoes"
+            ],
+            "Tasks": [
+                "Oven",
+                "Fry",
+                "Chop"
             ]
         },
         {
@@ -98,6 +132,9 @@
             "BaseQuality": 0,
             "RequiredIngredients": [
                 "Tomatoes"
+            ],
+            "Tasks": [
+                "Chop"
             ]
         },
         {
@@ -106,6 +143,9 @@
             "BaseQuality": 0,
             "RequiredIngredients": [
                 "Carrots"
+            ],
+            "Tasks": [
+                "Chop"
             ]
         },
         {
@@ -114,6 +154,9 @@
             "BaseQuality": -1,
             "RequiredIngredients": [
                 "Onions"
+            ],
+            "Tasks": [
+                "Chop"
             ]
         },
         {
@@ -122,6 +165,9 @@
             "BaseQuality": 0,
             "RequiredIngredients": [
                 "Lettuce"
+            ],
+            "Tasks": [
+                "Chop"
             ]
         },
         {
@@ -130,6 +176,9 @@
             "BaseQuality": 0,
             "RequiredIngredients": [
                 "Cheese"
+            ],
+            "Tasks": [
+                "Chop"
             ]
         },
         {
@@ -138,6 +187,9 @@
             "BaseQuality": 1,
             "RequiredIngredients": [
                 "Potatoes"
+            ],
+            "Tasks": [
+                "Oven"
             ]
         },
         {
@@ -147,6 +199,10 @@
             "RequiredIngredients": [
                 "Potatoes",
                 "Cheese"
+            ],
+            "Tasks": [
+                "Chop",
+                "Oven"
             ]
         }
     ],
